@@ -29,12 +29,14 @@ Since graduating, i searched for employment however found myself drawn to making
 ### Badges
 
 <b>Top Repositories</b>
+<br />
+
+<br />
+<p><b>Just-IT-Portfolio</b> is the ideal starting location if you are looking to get a grasp of my most recent work.</p>
+<br />
 
 <div width="100%" align="center"><a href="https://github.com/MisinformedOwl/Just-IT-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MisinformedOwl&repo=Just-IT-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MisinformedOwl/Mimic-learning" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MisinformedOwl&repo=Mimic-learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br />
-
-<p><b>Just-IT-Portfolio</b> is the ideal starting location if you are looking to get a grasp of my most recent work.</p>
 
 <br /> <br />
 
