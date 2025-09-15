@@ -12,7 +12,7 @@ Since graduating, i searched for employment however found myself drawn to making
 
 *   🌍  I'm based in Jarrow
 *   🖥️  See my portfolio at [My portfolio](http://github.com/MisinformedOwl/Just-IT-Portfolio)
-*   ✉️  You can contact me at [Linked In: https://www.linkedin.com/in/jay-dean-9648b92a0/](mailto:Linked In: https://www.linkedin.com/in/jay-dean-9648b92a0/)
+*   ✉️  You can contact me at [Linked In](https://www.linkedin.com/in/jay-dean-9648b92a0/)
 *   🚀  I'm currently working on [My Just IT portfolio](http://github.com/MisinformedOwl/Just-IT-Portfolio)
 *   🧠  I'm currently learning Data Analytics
 *   👥  I'm looking to collaborate on Anything interesting
