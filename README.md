@@ -1,33 +1,4 @@
-ProfileMe.dev
-
-    Go home
-
-© 2025 Dan Cranney
-Follow me
-|
-Buy Me a Coffee
-Introduction
-
-Introduce yourself. Tell visitors about you and who you are.
-👋Hi! My name is:
-Waving Hand Animation?
-💡Subtitle:
-✏️Long Description:
-I've been programming for the better part of i believe 9 years now. Most projects i make are both for fun, as well as to solve problems in my life. As will be shown in my portfolio.
-I've learned how to develop artificial intelligence through my education at Northumbria University.
-Since graduating, i searched for employment however found myself drawn to making a game. So i took on godot game development and developed a mobile game which I have not released.
-About me
-🌍I'm based in:
-🖥️See my portfolio:
-http://
-✉️Contact me at:
-🚀I'm currently working on:
-http://
-🧠I'm currently learning:
-🤝I'm open to collaborating on:
-⚡Anything else:
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jay
+Hi My name is Jay
 ============================================================================================================================
 
 Masters in AI Graduate
@@ -65,4 +36,3 @@ Since graduating, i searched for employment however found myself drawn to making
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/MisinformedOwl/Depression-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MisinformedOwl&repo=Depression-Detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MisinformedOwl/GravityBlitz" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MisinformedOwl&repo=GravityBlitz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
