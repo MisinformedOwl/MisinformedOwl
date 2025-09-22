@@ -4,11 +4,11 @@ Hi My name is Jay
 Masters in AI Graduate
 ----------------------
 
-I've been programming for the better part of i believe 9 years now. Most projects i make are both for fun, as well as to solve problems in my life. As will be shown in my portfolio.
+I've been programming for the better part of i believe 9 years now. Most projects I make fall into one of two categories, fun: this would be things like [sign language recognition](https://github.com/MisinformedOwl/SignLanWriter) or "[Pilkoball](https://github.com/MisinformedOwl/Pilkoball)" a recreation of an online gambling game i kept seeing in youtube shorts. Or problem solving: [Linked in scraping](https://github.com/MisinformedOwl/Just-IT-Portfolio) which collects information about jobs on linked in and allows me to look at it on a software like Power BI. As can be seen, i clearly have a passion for computing and programming and creating content in general. It's becomes my main hobby whenever i get that spark of inspiration.
 
-I've learned how to develop artificial intelligence through my education at Northumbria University.
+I've learned how to develop artificial intelligence through my education at Northumbria University. With my most enjoyable creation being [making a AI learn how to play asteroids](https://github.com/MisinformedOwl/Asteroids). Within my github you will discover various AI related projects, 1-2 are from university. The rest are of my own choice to design and craete for the love of the game really.
 
-Since graduating, i searched for employment however found myself drawn to making a game. So i took on godot game development and developed a mobile game which I have not released.
+Since graduating, i searched for employment however found myself drawn to making a game. So i took on godot game development and developed a mobile game which I have not released. I've since then taken on a data analyst course with JustIT. Where i learned several industry standard techniques for managine data and presenting.
 
 *   🌍  I'm based in Jarrow
 *   🖥️  See my portfolio at [My portfolio](http://github.com/MisinformedOwl/Just-IT-Portfolio)
