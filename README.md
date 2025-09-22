@@ -8,7 +8,9 @@ I've been programming for the better part of i believe 9 years now. Most project
 
 I've learned how to develop artificial intelligence through my education at Northumbria University. With my most enjoyable creation being [making a AI learn how to play asteroids](https://github.com/MisinformedOwl/Asteroids). Within my github you will discover various AI related projects, 1-2 are from university. The rest are of my own choice to design and craete for the love of the game really.
 
-Since graduating, i searched for employment however found myself drawn to making a game. So i took on godot game development and developed a mobile game which I have not released. I've since then taken on a data analyst course with JustIT. Where i learned several industry standard techniques for managine data and presenting.
+Since graduating, i searched for employment however found myself drawn to making a game. So i took on godot game development and developed a [mobile game which I have not released](https://github.com/MisinformedOwl/GravityBlitz). This is a game i wish contained more content
+
+I've since then taken on a data analyst course with JustIT. Where i learned several industry standard techniques for managing data and presenting. which can be found at [my public power BI](when i have the link...) This power BI presentation uses data pulled directly from linked in. to present the data in a readable format. It also provides a helpful job searching page too. Allowing you to filter out jobs that dont match your needs.
 
 *   🌍  I'm based in Jarrow
 *   🖥️  See my portfolio at [My portfolio](http://github.com/MisinformedOwl/Just-IT-Portfolio)
