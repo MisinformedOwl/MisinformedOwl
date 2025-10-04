@@ -15,7 +15,7 @@ I've since then taken on a data analyst course with JustIT. Where i learned seve
 *   🌍  I'm based in Jarrow
 *   🖥️  See my portfolio at [My portfolio](http://github.com/MisinformedOwl/Just-IT-Portfolio)
 *   ✉️  You can contact me at [Linked In](https://www.linkedin.com/in/jay-dean-9648b92a0/)
-*   🚀  I'm currently working on [My Just IT portfolio](http://github.com/MisinformedOwl/Just-IT-Portfolio)
+*   🚀  I'm currently working on an [Email Manager](https://github.com/MisinformedOwl/EmailManager)
 *   🧠  I'm currently learning Data Analytics
 *   👥  I'm looking to collaborate on Anything interesting
 <p align="left">
