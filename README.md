@@ -12,7 +12,9 @@ Since graduating, i searched for employment however found myself drawn to making
 
 I've since then taken on a data analyst course with JustIT. Where i learned several industry standard techniques for managing data and presenting. which can be found at [my public power BI](when i have the link...) This power BI presentation uses data pulled directly from linked in. to present the data in a readable format. It also provides a helpful job searching page too. Allowing you to filter out jobs that dont match your needs.
 
-I have also recently been working with data engineering tools such as airflow. My most recent working making use of this after taking a few hours to learn it resulted in a market analysis tool for a game called [Warframe](https://www.warframe.com/). The repository can be found [here](https://github.com/MisinformedOwl/WarframeArcanePriceChecker)
+I have also recently been working with data engineering tools such as airflow. My most recent working making use of this after taking a few hours to learn it resulted in a market analysis tool for a game called [Warframe](https://www.warframe.com/). The repository can be found here:
+
+<a href="https://github.com/MisinformedOwl/Mimic-learning" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MisinformedOwl&repo=WarframeArcanePriceChecker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 *   🌍  I'm based in Jarrow
 *   🖥️  See my portfolio at [My portfolio](http://github.com/MisinformedOwl/Just-IT-Portfolio)
