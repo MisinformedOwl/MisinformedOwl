@@ -19,7 +19,7 @@ I have also recently been working with data engineering tools such as airflow. M
 *   🌍  I'm based in Jarrow
 *   🖥️  See my portfolio at [My portfolio](http://github.com/MisinformedOwl/Just-IT-Portfolio)
 *   ✉️  You can contact me at [Linked In](https://www.linkedin.com/in/jay-dean-9648b92a0/)
-*   🚀  I'm currently working on an [Email Manager](https://github.com/MisinformedOwl/EmailManager)
+*   🚀  I'm currently working on an a website which allows users to see how far places are in the world
 *   🧠  I'm currently learning Data Analytics
 *   👥  I'm looking to collaborate on Anything interesting
 <p align="left">
